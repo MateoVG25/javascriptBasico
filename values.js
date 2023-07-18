@@ -1,6 +1,16 @@
-let name = "mateo"
+let name = "mateo";
 
-console.log(name)
+let name1;
 
-// how do I do a git commit?
-// git add .
+name1 = "mariana";
+
+let names = ["mateo", "mariana", "jose", "luis", "maria"];
+
+let persona = {
+  name: "mateo",
+  age: 20,
+  city: "medellin",
+};
+
+console.log(persona, names);
+
